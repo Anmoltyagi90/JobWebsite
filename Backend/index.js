@@ -23,8 +23,7 @@ app.use(cookieParser());
 
 const corsOptions = {
   origin: [
-    "http://localhost:5173",
-    "http://localhost:5174",
+  https://jobwebsite-ls18.onrender.com,
     "https://hoppscotch.io",
   ],
   credentials: true,
